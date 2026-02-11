@@ -78,12 +78,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogiputrap&theme=github-light" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
