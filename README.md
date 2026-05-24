@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Fulltime at SOE (State-Owned Enterprise) Company<br>- 📚 I'm currently learning Front End, Machine Learning, Vision, Infrastucture, UI/UX<br>- ⚡ In my free time I will sleep :D</p>
+<p align="left">- 📚 I'm currently learning Front End, Machine Learning, Vision, Infrastucture, UI/UX<br>- ⚡ In my free time I will sleep :D</p>
 
 ###
 
